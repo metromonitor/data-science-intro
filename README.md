@@ -1,4 +1,5 @@
-data-science-intro
-==================
+Data science - a brief introduction
+===================================
 
-Brief introduction to data science
+Materials for a short introductory workshop to data science,
+based on the European MetroMonitor data visualization platform.
